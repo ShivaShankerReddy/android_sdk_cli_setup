@@ -9,7 +9,7 @@
 ## Installation Steps:
 -----------------------
 
-1) git clone android_sdk_link
+1) git clone https://aur.archlinux.org/android-sdk.git
 2) cd android_sdk_link
 3) sudo makepkg -sfi
 
